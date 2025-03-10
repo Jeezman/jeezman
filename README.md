@@ -1,6 +1,6 @@
 ### Hi there 👋
-### I'm Tobi Adeyemi
-I am a Bitcoin/Lightning developer
+### I'm Tobi
+Bitcoin/Lightning developer
 
 - 📓 I write about my learnings on [Medium](https://medium.com/@tobiadeyemi)
 - 👯 I’m looking to collaborate on exciting Bitcoin/Lightning projects
